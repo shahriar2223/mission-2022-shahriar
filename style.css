@@ -6,9 +6,10 @@ section{
 }
 .half-width{
     width: 50%;
+    padding-left: 60px;
 }
 .half-width img{
-    width: 50%;
+    width: 40%;
 }
 .link-button{
     text-decoration: none;
