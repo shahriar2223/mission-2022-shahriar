@@ -12,7 +12,12 @@ section{
 }
 .link-button{
     text-decoration: none;
+    background-image: linear-gradient(tomato red);
     background-color: orange;
+    padding: 10px 40px;
+    color: white;
+    font: 700;
+    border-radius: 5px;
     
-
+    
 }
