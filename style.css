@@ -1,8 +1,9 @@
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -21,4 +22,7 @@ section{
     border-radius: 5px;
     
     
+}
+.mission-in-2022{
+    text-align: center;
 }
