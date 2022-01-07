@@ -10,7 +10,7 @@
     padding-left: 60px;
 }
 .half-width img{
-    width: 40%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -19,7 +19,7 @@
     padding: 10px 40px;
     color: white;
     border-radius: 5px;
-    margin-top: 100px;
+    margin: 30px 20px;
     
     
 }
@@ -46,8 +46,25 @@
     background-color: rgb(202, 184, 181);
 }
 .stay-focused{
-    margin-left: 20px;
+    margin-left: 60px;
     border-left: 3px solid;
     border-image: linear-gradient(tomato, orange);
     border-image-slice: 1;
+    margin-top: 80px;
+}
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 25px;
+}
+.person-img{
+    padding-left: 170px;
+}
+.mission-area{
+    padding-left: 40px;
+}
+.global-community-area{
+    display: flex;
 }
