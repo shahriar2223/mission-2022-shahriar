@@ -68,3 +68,15 @@ p{
 .global-community-area{
     display: flex;
 }
+.mission-2022{
+    font-style: italic;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+.year-color{
+    color: tomato;
+}
